@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sharkie
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any app development using java
-- 📫 you can reach me via discord: s.h.a.r.k.i.e#8655
+Hey, I'm Sharkie,
+I'm learning app development using Java and xml.
+If anyone wants to collab just message me
+Discord: s.h.a.r.k.i.e#8655 or Reddit: SharkieCodes
