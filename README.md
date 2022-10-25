@@ -1,4 +1,4 @@
 Hey, I'm Sharkie,<br/>
-I'm learning flutter<br/>
+I'm learning java<br/>
 socials:<br/>
-Discord: s.h.a.r.k.i.e#8655 or Reddit: SharkieCodes
+Discord: sharkie#0550 or Reddit: SharkieCodes
