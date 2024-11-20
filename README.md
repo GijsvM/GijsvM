@@ -1,9 +1,5 @@
 Hey, ik ben Gijs,<br>
-Ik vind het leuk om thuis android apps te maken.<br>
-Op het werk werk ik met een database en website.<br>
-De talen die ik hiervoor gebruik zijn:<br>
-Java,
-Perl,
-SQL,
-HTML,
-en een klein beetje Javascript en CSS
+Ik zit op Fontys HBO-ICT waar ik het profiel Tech heb gekozen<br>
+Ik vind het leuk om thuis met arduino, ESP32 en Raspberry pi te spelen<br>
+Ik heb ervaring met de volgende programeertalen:<br>
+Java, C++, Perl, SQL, HTML, CSS en Python
