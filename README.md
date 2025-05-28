@@ -23,5 +23,3 @@ I'm currently following the Technology curriculum at Fontys HBO-ICT, next semest
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gijsvm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
