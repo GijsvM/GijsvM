@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently following the Technology curriculum at Fontys HBO-ICT, next semester I will change to Cyber Security.<br>In my free time I am already learning Cyber Security basics so I am well prepared for next semester.<br>I work as a software developer at Wilvo where I program in: Perl, HTML, CSS and use SQL.
+I'm currently following the CyberSecurity curriculum at Fontys HBO-ICT, next semester I will do Cloud Automation.<br>
 
 
 ## 🌐 Socials:
